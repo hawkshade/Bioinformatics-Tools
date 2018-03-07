@@ -10,6 +10,6 @@ There are three tools created with the use of some modules from CPAN:
   and RSCU(Relative Synonymous Codon Usage) of a FASTA file
 
 The following describes the format of each script:
-    -mutate.pl          - ./mutate.pl 'position:base' [FASTA_file]
-    -sort.pl            - ./sort.pl  'id OR length' [FASTA_file]
-    -CodonTable.pl      - .CodonTable.pl [FASTA_file]
+  - mutate.pl          - ./mutate.pl 'position:base' [FASTA_file]
+  - sort.pl            - ./sort.pl  'id OR length' [FASTA_file]
+  - CodonTable.pl      - .CodonTable.pl [FASTA_file]
